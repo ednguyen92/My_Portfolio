@@ -440,10 +440,10 @@ a.btn,
 	line-height: 12px;
 	text-transform: uppercase;
 	cursor: pointer;
-	box-shadow: inset 0 -6px 0 #ede574;
-	-moz-box-shadow: inset 0 -6px 0 #ede574;
-	-webkit-box-shadow: inset 0 -6px 0 #ede574;
-	-khtml-box-shadow: inset 0 -6px 0 #ede574;
+	box-shadow: inset 0 -6px 0 #AEB6BF;
+	-moz-box-shadow: inset 0 -6px 0 #AEB6BF;
+	-webkit-box-shadow: inset 0 -6px 0 #AEB6BF;
+	-khtml-box-shadow: inset 0 -6px 0 #AEB6BF;
 	transition: all 0.4s ease 0s;
 	-moz-transition: all 0.4s ease 0s;
 	-webkit-transition: all 0.4s ease 0s;
@@ -452,10 +452,10 @@ a.btn,
 
 a.btn:hover,
 .btn:hover {
-	box-shadow: inset 0 -14px 0 #ede574;
-	-moz-box-shadow: inset 0 -14px 0 #ede574;
-	-webkit-box-shadow: inset 0 -14px 0 #ede574;
-	-khtml-box-shadow: inset 0 -14px 0 #ede574;
+	box-shadow: inset 0 -14px 0 #AEB6BF;
+	-moz-box-shadow: inset 0 -14px 0 #AEB6BF;
+	-webkit-box-shadow: inset 0 -14px 0 #AEB6BF;
+	-khtml-box-shadow: inset 0 -14px 0 #AEB6BF;
 }
 
 /* 7. Preloader */
@@ -481,7 +481,7 @@ a.btn:hover,
 .preloader .spinner .double-bounce2 {
 	width: 100%;
 	height: 100%;
-	background: #ede574;
+	background: #AEB6BF;
 	opacity: 0.8;
 	position: absolute;
 	top: 0;
